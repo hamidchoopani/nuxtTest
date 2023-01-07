@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+project in netlify https://eloquent-duckanoo-74e22a.netlify.app
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
